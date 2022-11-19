@@ -1,0 +1,22 @@
+export 'package:application/src/core/utils/colors_utils.dart';
+export 'package:flutter_svg/svg.dart';
+export 'package:application/src/ui/widgets/catalog/plug_image/plug_image.dart';
+export 'package:flutter/material.dart';
+export 'package:url_launcher/url_launcher.dart';
+export 'package:application/src/ui/widgets/catalog/common/place_icon.dart';
+export 'package:application/src/ui/widgets/catalog/schedule/schedule.dart';
+
+export 'product_item_description.dart';
+export 'product_item_image.dart';
+export 'product_item_street.dart';
+export 'product_item_title.dart';
+export 'product_item_contact_location.dart';
+export 'product_item_contact_phone.dart';
+export 'product_item_contacts.dart';
+export 'product_item_schedule.dart';
+export 'product_item_rate_icon.dart';
+export 'product_item_rate_text.dart';
+export 'product_item_street_plug_text.dart';
+export 'product_item_street_text.dart';
+export 'product_item_rate.dart';
+export 'product_item_title_text.dart';
